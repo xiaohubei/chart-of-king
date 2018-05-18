@@ -1,0 +1,20 @@
+# Don't check auto-generated stuff into git
+coverage
+build
+node_modules
+stats.json
+static
+logs
+redis
+.cache-loader
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+node_modules/
+.idea/
+.vscode/
+update.tar.gz
+.bash_env.config
+webpack-manifest.json
